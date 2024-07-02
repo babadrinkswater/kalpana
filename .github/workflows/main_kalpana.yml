@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'kalpana'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1497D4ACA8F0480993B291A149EFC2F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_62FC9E97F27C4E539874890242CF32F2 }}
